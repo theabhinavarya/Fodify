@@ -1,4 +1,4 @@
-# Namaste React 🚀
+# Fodify 🚀
 
 # Parcel
 
@@ -20,7 +20,7 @@
 - Tree Shaking - remove unused code
 - Different dev and prod bundles
 
-# Namaste Food
+# fodify
 
 - Header
 - - Logo
